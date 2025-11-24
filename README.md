@@ -1,4 +1,4 @@
-# py-fun: Assignment B2: Recursive Problem Solving 
+Assignment B2: Recursive Problem Solving 
 
 ## 🎯 Assignment Summary
 
